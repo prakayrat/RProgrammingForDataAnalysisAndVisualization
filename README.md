@@ -1,3 +1,3 @@
 # Book
-R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ (R Programming for data analysis and visualization)
-https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ
+หนังสือวิเคราะห์การตลาด ด้วย Python
+กำลังจัดทำ update: 4 July 2023
