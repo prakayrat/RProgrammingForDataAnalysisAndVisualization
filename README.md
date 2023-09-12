@@ -38,3 +38,20 @@ https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการ
 * โปรแกรม RStudio (Dec, 2022)  
 
 ![RStudio](https://github.com/prakayrat/Book/assets/51775195/99b418b1-4c0d-45b0-b51f-6dba4f968e12)
+
+* เหมาะใช้ประกอบการสอน หรือประกอบการอบรม เกี่ยวกับการใช้งาน R Programming 
+    
+* https://learningroom.odoo.com/  
+
+* เนื่องจากยังมีความรู้ที่เกี่ยวกับโปรแกรม R อีกมาก เล่มเดียวไม่พอ ..กำลังดำเนินการคะ
+
+***
+
+  
+* นอกจาก R แล้ว ผู้แต่งกำลัง ศึกษา เรียนรู้ แต่งหนังสือเกี่ยวกับ Python  
+ซึ่งเป็นภาษาโปรแแกรมมิ่งที่ได้รับความนิยมสูงสุดเป็นอันดับ 1 ของ worldwide จนถึง ณ ปัจจุบัน   
+(https://spectrum.ieee.org/the-top-programming-languages-2023)   
+
+* ติดตามผลงานได้คะ
+
+***
