@@ -46,7 +46,7 @@ https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการ
 ***
 
   
-* นอกจาก R แล้ว ผู้แต่งกำลัง ศึกษา เรียนรู้ แต่งหนังสือเกี่ยวกับ Python  
+* นอกจาก R แล้ว ผู้แต่งกำลังแต่งหนังสือเกี่ยวกับ Python  
 ซึ่งเป็นภาษาโปรแแกรมมิ่งที่ได้รับความนิยมสูงสุดเป็นอันดับ 1 ของ worldwide จนถึง ณ ปัจจุบัน   
 (https://spectrum.ieee.org/the-top-programming-languages-2023)   
 
