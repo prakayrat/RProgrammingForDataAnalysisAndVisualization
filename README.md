@@ -1,3 +1,40 @@
-# R Programming for data analysis and visualization
-R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ 
-https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ
+# R Programming for data analysis and visualization  
+หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ  
+https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ   
+
+**หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ**
+
+โดย ผศ.ประกายรัตน์ วิเศษสงวน และอาจารย์อมรวิทย์ วิเศษสงวน
+
+เผยแพร่ครั้งแรก : มกราคม 2566   
+ปรับปรุงล่าสุด : กันยายน 2566
+
+จำหน่ายผ่าน www.mebmarket.com และ www.ookbee.com
+
+ราคา 250 บาท  
+
+![cover](https://github.com/prakayrat/Book/assets/51775195/3f12f240-42a5-40bc-801c-106c76680b94)
+
+
+จุดเด่นของหนังสือ 
+  
+* R Programming สามารถทำอะไรได้บ้าง?  หนังสือเล่มนี้จะนำเสนอ เช่น  
+> - วิเคราะห์ข้อมูลทางคณิตศาสตร์และสถิติ ทั้งตัวเลข และภาพกราฟิก   
+> - แสดงกราฟิกได้ทั้ง 2D, 3D
+> - Interactive Web Apps  
+> - Dashboard  
+> - Machine Learning :
+> >  - Decision Tree
+> >  - Random Forest
+> >  - SVM
+> >  - K-Means Clustering
+> >  - Neural Networks  
+
+> - สร้าง Map ในรูปแบบต่างๆ พร้อมแสดง information  
+> - ประมวลผลชุดข้อมูลขนาดใหญ่: RFM Analysis ใช้ในงานด้าน Marketing  
+> - ประมวลผลภาพ  
+
+* มีเนื้อหา 14 บท แต่ละบท มีแบบทดสอบ แบบฝึกหัดท้ายบท พร้อมเฉลยท้ายเล่ม 
+* โปรแกรม RStudio (Dec, 2022)  
+
+![RStudio](https://github.com/prakayrat/Book/assets/51775195/99b418b1-4c0d-45b0-b51f-6dba4f968e12)
