@@ -3,7 +3,10 @@ Book for sale
 ## หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ 
 ## R Programming for data analysis and visualization **  
 
-คลิกที่นี่: https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ   
+สั่งซื้อ   
+คลิกที่นี่ mebmarket :  https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ   
+หรือ   
+คลิกที่นี่ ookbee :  https://www.ookbee.com/shop/book/88106122-5149-4386-9239-1d06768d1a34/r-programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ   
 
 โดย ผศ.ประกายรัตน์ วิเศษสงวน และ อาจารย์อมรวิทย์ วิเศษสงวน
 
