@@ -1,7 +1,7 @@
 Book for sale
 
 ## หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ 
-## R Programming for data analysis and visualization **  
+Book for sale 
 
 สั่งซื้อ คลิกที่นี่   
 [หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ @ mebmarket](https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ)
