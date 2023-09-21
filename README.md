@@ -4,9 +4,9 @@ Book for sale
 Book for sale 
 
 สั่งซื้อ คลิกที่นี่   
-[หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ @ mebmarket](https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ)
-หรือ
-[หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ @ ookbee](https://www.ookbee.com/shop/book/88106122-5149-4386-9239-1d06768d1a34/r-programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ   
+[หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ @ mebmarket](https://www.mebmarket.com/ebook-224452-R-Programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ)    
+หรือ   
+[หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ @ ookbee](https://www.ookbee.com/shop/book/88106122-5149-4386-9239-1d06768d1a34/r-programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ)      
 
 ***   
 
