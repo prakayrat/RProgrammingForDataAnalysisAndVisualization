@@ -45,7 +45,7 @@ Book for sale
 * พร้อมเฉลย (ทุกข้อ ทุกบท) ท้ายเล่ม  
 * จำนวนหน้า 420 หน้า
 
-* หนังสือใช้โปรแกรม RStudio version ล่าสุด (เวอร์ชัน 2023.06.2 Build 561 (กันยายน 2566))   
+* โปรแกรม RStudio version ล่าสุด (เวอร์ชัน 2023.06.2 Build 561 (กันยายน 2566))   
 
 ![RStudio](https://github.com/prakayrat/Book/assets/51775195/99b418b1-4c0d-45b0-b51f-6dba4f968e12)
 
