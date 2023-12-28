@@ -1,3 +1,9 @@
+# หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ
+# ผศ.ประกายรัตน์ วิเศษสงวน และ อ.อมรวิทย์ วิเศษสงวน
+# พิมพ์ครั้งที่ 2 กันยายน 2566
+
+# บทที่ 6  แนะนำ Machine Learning 
+
 # Chapter 6
 ## UC Irvine Machine Learning Repository
 iris_uci <- read.csv("iris.data", header = FALSE,
