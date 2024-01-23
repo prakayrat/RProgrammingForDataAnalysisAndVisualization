@@ -18,7 +18,7 @@ Book for sale
 
 ราคา 250 บาท  
 
-![หน้า-หลัง](https://github.com/prakayrat/RProgrammingForDataAnalysisAndVisualization/assets/51775195/9275cd5e-30d1-47df-9527-2b62356fb6c1)
+![ปกหน้า-หลัง](https://github.com/prakayrat/RProgrammingForDataAnalysisAndVisualization/assets/51775195/4f82fc3f-2dd9-4ced-97b7-52554cd239f4)
 
 จุดเด่นของหนังสือ 
   
