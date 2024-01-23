@@ -14,12 +14,11 @@ Book for sale
 เผยแพร่ครั้งแรก : มกราคม 2566   
 ปรับปรุงล่าสุด : กันยายน 2566
 
-จำหน่ายผ่าน www.mebmarket.com และ www.ookbee.com
+จำหน่ายผ่าน www.mebmarket.com, www.ookbee.com และเว็บไซต์ศูนย์หนังสือจุฬา
 
 ราคา 250 บาท  
 
-![cover](https://github.com/prakayrat/Book/assets/51775195/3f12f240-42a5-40bc-801c-106c76680b94)
-
+![หน้า-หลัง](https://github.com/prakayrat/RProgrammingForDataAnalysisAndVisualization/assets/51775195/9275cd5e-30d1-47df-9527-2b62356fb6c1)
 
 จุดเด่นของหนังสือ 
   
