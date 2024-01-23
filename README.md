@@ -16,7 +16,7 @@ Book for sale
 เผยแพร่ครั้งแรก : มกราคม 2566   
 ปรับปรุงล่าสุด : กันยายน 2566
 
-จำหน่ายผ่าน www.mebmarket.com, www.ookbee.com และเว็บไซต์ศูนย์หนังสือจุฬา
+จำหน่ายผ่าน mebmarket, ookbee และ chulabook
 
 ราคา 250 บาท  
 
