@@ -16,9 +16,7 @@ Book for sale
 เผยแพร่ครั้งแรก : มกราคม 2566   
 ปรับปรุงล่าสุด : กันยายน 2566
 
-จำหน่ายผ่าน mebmarket, ookbee และ chulabook
-
-ราคา 250 บาท  
+จำหน่ายผ่าน mebmarket, ookbee และ แอป CU-eBook 
 
 ![ปกหน้า-หลัง](https://github.com/prakayrat/RProgrammingForDataAnalysisAndVisualization/assets/51775195/a2c37e45-fab3-4d61-8c57-a2054de4c6e0)
 
