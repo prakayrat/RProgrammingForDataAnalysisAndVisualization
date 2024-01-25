@@ -7,7 +7,7 @@ Book for sale
 หรือ   
 [หนังสือ R Programming สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ @ ookbee](https://www.ookbee.com/shop/book/88106122-5149-4386-9239-1d06768d1a34/r-programming-สำหรับการวิเคราะห์และแสดงข้อมูลด้วยภาพ)     
 หรือ    
-[Chula Book](https://www.chulabook.com/)  
+แอป CU-eBook 
 
 ***   
 
